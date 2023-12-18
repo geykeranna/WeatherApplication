@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="description_weather">Облачно</string>
+    <string name="default_date_time">Дата | Время</string>
+    <string name="temperature">Температура</string>
+    <string name="default_temp">0℃</string>
+    <string name="default_temp_range">От 0℃ до 3℃</string>
+    <string name="descrip_value">Описание параметров и их значения</string>
+    <string name="today_label">В течении дня</string>
+    <string name="humidity_label">Влажность</string>
+    <string name="wind_label">Скорость ветра</string>
+    <string name="update_btn_label">update</string>
+    <string name="convert_to_fahrenheit_btn_label">Фаренгейт</string>
+    <string name="convert_to_celsius_btn_label">Цельсия</string>
+    <string name="convert_to_kelvin_btn_label">Кельвин</string>
+</resources>
